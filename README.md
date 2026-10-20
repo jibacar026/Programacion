@@ -28,9 +28,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | Ejercicio | Descripción |
 |-----------|-------------|
 | [diapo07](/tema3/diapo07.java) | Juego matemático
-| [Ejercicio02](/tema3/ejercicio02.java) | pendiente
-| [Ejercicio03](/tema3/ejercicio03.java) | pendiente
-| [Ejercicio04](/tema3/ejercicio04.java) | pendiente
+| [mayorEdad](/tema3/mayorEdad.java) | calcula si es mayor de edad 
+| [dosNumeros](/tema3/dosNumeros.java) | calcula el número mayor
+| [tresNumeros](/tema3/tresNumeros.java) | Número mas pequeño
 | [Ejercicio05](/tema3/ejercicio05.java) | pendiente
 
 
