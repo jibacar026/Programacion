@@ -31,7 +31,17 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [mayorEdad](/tema3/mayorEdad.java) | calcula si es mayor de edad 
 | [dosNumeros](/tema3/dosNumeros.java) | calcula el número mayor
 | [tresNumeros](/tema3/tresNumeros.java) | Número mas pequeño
-| [Ejercicio05](/tema3/ejercicio05.java) | pendiente
+| [tresNumMenAMay](/tema3/tresNumMenAMay.java) | tres numeros de menor a mayor
+| [divisible](/tema3/divisible.java) |comprobar si un numero es divisible
+| [yearbisiesto](/tema3/yearbisiesto.java) |comprobar si un año es bisiesto
+| [horarioClase](/tema3/horarioClase.java) |muestra por consola la primera asignatura del dia
+| [saludo](/tema3/saludo.java) |muestra por consola el saludo del momento del dia
+
+
+
+
+
+
 
 
 
