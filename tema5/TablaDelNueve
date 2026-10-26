@@ -1,9 +1,5 @@
 public class TablaDelNueve {
     public static void main(String[]args) {
-        int a;
-        System.out.println("Tabla del 9");
-        System.out.println("----------");
-
         /*
         Escribe un programa llamado TablaDelNueve
         que muestre la tabla de multiplicar del 9 
