@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class barajafrancesa {
     public static void main(String[] args) {
-        into palo = (int) (Math.random() * 4,0);
-        int valor = (int) (Math.random() * 13,00);
+        into palo = (int) (Math.random() * 4.0);
+        int valor = (int) (Math.random() * 13.00);
         Scanner sc = new Scanner(System.in);
 
         System.out.ptintln("El palo de la baraja es: ");

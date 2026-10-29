@@ -36,7 +36,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [yearbisiesto](/tema3/yearbisiesto.java) |comprobar si un año es bisiesto
 | [horarioClase](/tema3/horarioClase.java) |muestra por consola la primera asignatura del dia
 | [saludo](/tema3/saludo.java) |muestra por consola el saludo del momento del dia
-
+| [horoscopo](/tema3/horoscopo.java) |muestra por consola el signo del zodíaco
+| [Capicúa](/tema3/capicua.java) | Calcula si un numero es capicúa
 
 
 
