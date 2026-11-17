@@ -40,9 +40,27 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de programaci
 | [Capicúa](/tema3/capicua.java) | Calcula si un numero es capicúa
 
 
+### Tema 4 - Pendiente
+| Ejercicio | Descripción |
+|-----------|-------------|
+| [xxxx](/tema4/xxx.java) | Descripción
+
+### Tema 5 - Pendiente
+| Ejercicio | Descripción |
+|-----------|-------------|
+| [xxxx](/tema5/xxx.java) | Descripción
 
 
-
+### Tema 6 - Funciones
+| Ejercicio | Descripción |
+|-----------|-------------|
+| [FuncionesMatematicas](/tema6/FuncionesMatematicas.java) | Diferentes funciones matematicas
+| [Máximo 2 parámetros](/tema6/ej02y03.java) | Máximo con dos parámetros
+| [Máximo 3 parámetros](/tema6/ej02y03.java) | Máximo con tres parámetros
+| [Volumen cilindro](/tema6/ej04.java) | Calcula el volumen de un cilindro
+| [Divisores primos](/tema6/ej05.java) | Calcula el numero de divisores primos
+| [Números amigos](/tema6/ej06.java) | Calcula si dos números son amigos
+| [Fechas validas](/tema6/ej07.java) | Programa que calcula el día en una fecha concreta
 
 
 
